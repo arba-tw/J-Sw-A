@@ -27,7 +27,7 @@ There is NO WARRANTY, to the extent permitted by law.
 ```
 
 ### Juniper Hardware
--EX 2300 Series </p>
-  -OS Version: 15.1X53-D591.1, 18.1R3.3</p>
--EX 2200 Series</p>
-  -OS Version: 12.3R6.6</p>
+-EX 2300 Series
+  -OS Version: 15.1X53-D591.1, 18.1R3.3
+-EX 2200 Series
+  -OS Version: 12.3R6.6
