@@ -3,6 +3,13 @@ Juniper bash tools</br>
 2020-07-05</br>
 1318 UTC+8</br>
 
+## Object（目標）
+目標：將指定的多個介面不管目前什麼vlan ID，一次更換到特定的vlan ID上。</br>
+Object: ...........(sorry for my poor English)
+
+### 提醒
+最好是那些介面都是untagged在某個vlan ID上。
+
 ## Lab environment
 
 ### HOST Information
