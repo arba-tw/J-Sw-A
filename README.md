@@ -1,7 +1,7 @@
 # J-Sw-A
-Juniper bash tools</p>
-2020-07-05</p>
-1318 UTC+8</p>
+Juniper bash tools</br>
+2020-07-05</br>
+1318 UTC+8</br>
 
 ## Lab environment
 
@@ -27,7 +27,8 @@ There is NO WARRANTY, to the extent permitted by law.
 ```
 
 ### Juniper Hardware
--EX 2300 Series
-  -OS Version: 15.1X53-D591.1, 18.1R3.3
--EX 2200 Series
-  -OS Version: 12.3R6.6
+
+- EX 2300 Series
+  - OS Version: 15.1X53-D591.1, 18.1R3.3
+- EX 2200 Series
+  - OS Version: 12.3R6.6
